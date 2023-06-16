@@ -1,2 +1,2 @@
 # repo-exercise
-For Coursera version control course purposes only.
+For Coursera Meta Front-end Developer Course (Version Control) purposes only.
